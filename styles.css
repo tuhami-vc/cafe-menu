@@ -5,3 +5,7 @@ body {
 .menu {
     background-color: #deb887;
 }
+
+h1, h2, p {
+    text-align: center;
+}
