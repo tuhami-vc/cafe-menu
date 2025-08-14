@@ -11,6 +11,10 @@ body {
     max-width: 500px;
 }
 
+h1, h2 {
+    font-family: Impact, serif;
+}
+
 h1, h2, p {
     text-align: center;
 }
