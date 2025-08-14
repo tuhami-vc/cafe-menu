@@ -74,3 +74,16 @@ hr {
 footer {
     font-size: 14px;
 }
+
+a {
+    color: #000000;
+    &:visited {
+        color: #000000;
+    }
+    &:hover {
+        color: #a52a2a;
+    }
+    &:active {
+        color: #a52a2a;
+    }
+}
