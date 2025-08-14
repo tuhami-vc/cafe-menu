@@ -44,6 +44,10 @@ hr {
     border-color: #a52a2a;
 }
 
+.established {
+    font-style: italic;
+}
+
 .item p {
     display: inline-block;
     margin-top: 5px;
