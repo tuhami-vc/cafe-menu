@@ -36,6 +36,12 @@ img {
     margin-top: -25px;
 }
 
+hr {
+    height: 2px;
+    background-color: #a52a2a;
+    border-color: #a52a2a;
+}
+
 .item p {
     display: inline-block;
     margin-top: 5px;
