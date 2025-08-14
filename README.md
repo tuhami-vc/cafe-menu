@@ -30,7 +30,7 @@ To view or work on this project locally, clone the repository and open the `inde
 
 ```bash
 # Clone this repository to your local machine
-git clone https://github.com/your-username/cafe-menu.git
+git clone https://github.com/tuhami-vc/cafe-menu.git
 
 # Navigate into the cloned directory
 cd cafe-menu
